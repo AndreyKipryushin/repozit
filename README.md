@@ -1,1 +1,1 @@
-new product
+no new product
